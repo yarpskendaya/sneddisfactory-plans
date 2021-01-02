@@ -10,7 +10,6 @@
 1200 ```Iron Ore```
 ## OUT
 4x Impure(300) = 1200 ```Iron Ore```
-Total: 3000 ```Iron Ore```
 
 -----------
 # [x] Copper Ore
@@ -19,6 +18,7 @@ Total: 3000 ```Iron Ore```
 ## OUT
 2x Normal(600) = 1200 ```Copper Ore```
 2x Impure(300) = 600 ```Copper Ore```
+Total: 1800 ```Copper Ore```
 
 -----------------
 # [x] Iron Ingot
